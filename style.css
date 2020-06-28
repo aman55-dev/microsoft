@@ -1,0 +1,350 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.bodystyle{
+	width: 90%;
+	margin: 0 auto; 
+}
+.logostyle{
+	height:80px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 450px;
+  }
+  .device{
+  	color: white;
+  	word-spacing: 2px;
+  	font-weight: bold;
+  }
+  .bu{
+  	background-color: black;
+  	color:white;
+  }
+  .live{
+  	color: black;
+  	word-spacing: 5px;
+  }
+  .carousel-item{
+  	position: relative;
+  	z-index:1;
+  }
+  .carousel-caption{
+  	position: absolute;
+  	left:7% !important;
+  	top:10%;
+  	text-align: left;
+  	font-weight: bold;
+  }
+  main{
+  	margin: 40px 0px;
+  }
+  .card{
+  	border:none !important;
+  }
+  .card-body{
+  	padding:5px 0px !important;
+  }
+  
+  .msstyle{
+ 
+  	width: 100%;
+  	height:450px;
+  	background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)) ,url('xbox3.jpg');
+  	background-repeat: no-repeat;
+  	background-size: 100%,100%;
+  	margin: 20px 0px 40px 0px;
+  	color: white;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	align-items: flex-start;
+  	padding-left: 70px;
+  	word-spacing: 5px;
+  }
+button{
+	background-color:black;
+	color: white;
+	font-size:15px;
+	font-weight: bold;
+	padding:10px 20px;
+	border:none;
+}
+.card-img-top{
+	height: 150px;
+}
+.btmcard{
+	margin:50px 0px;
+}
+.social{
+	margin-bottom: 60px;
+}
+.fa-instagram{
+	color: purple;
+}
+.fa-youtube{
+	color: red;
+}
+footer li{
+	list-style-type: none;
+}
+footer p{
+	font-weight: bold;
+	font-size: 16px;
+	color: black;
+}
+footer{
+	background:#f2f2f2;
+	padding:40px 0px;
+}
+footer a{
+	color: #818181;
+}
+.footerindex{
+	display: flex;
+	justify-content: space-between;
+}
+.kk li a:hover{
+   border-bottom: 2px solid black;
+}
+.bu{
+	border:1px solid black;
+	background-color: white;
+	color: black;
+	font-weight: bold;
+	padding:5px;
+}
+.kk ul li a{
+	margin-right:20px;
+}
+.msstyle2{
+ 
+  	width: 100%;
+  	height:450px;
+  	background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)) ,url('55.png');
+  	background-repeat: no-repeat;
+  	background-size: 100%,100%;
+  	margin: 20px 0px 40px 0px;
+  	color: white;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	align-items: flex-start;
+  	padding-left: 70px;
+  	word-spacing: 5px;
+  }
+  .msstyle2 button{
+  	padding: 10px 20px 10px 20px ;
+  	border:2px solid white;
+  	font-weight: bold;
+  }
+  .msstyle2 p{
+  	font-size: 16px;
+  	font-weight: bold;
+
+  }
+  .msstyle2 h3{
+  	font-size: 32px;
+  }
+  .text{
+  	margin-top:100px;
+  	margin-bottom: 150px;
+  	
+  	color: black;
+  }
+  .text h2{
+  	font-weight: bold;
+  	font-size: 40px;
+  }
+  .text h3{
+  	font-size:25px;
+  	font-weight: bold;
+  }
+  .learn{
+  	background-color: #f2f2f2;
+  	margin-bottom: 100px;
+  	
+  }
+  .learn h1{
+  	margin-top:20px;
+  	font-weight: bold;
+  	padding: 30px;
+  	color: black;
+
+  }
+.jj {
+	margin-left: 70px;
+}
+.learn h2{
+	color: black;
+	padding-bottom: 40px;
+}
+.fo p{
+    color: black;
+  
+    font-weight: bold;
+}
+.social2{
+	color:black;
+	font-size:16px;
+	margin-bottom: 30px;
+}
+
+
+
+
+.msstyle3{
+ 
+  	width: 100%;
+  	height:420px;
+  	background-image:url('office2.jpeg');
+  	background-repeat: no-repeat;
+  	background-size: 100%,100%;
+  	margin: 20px 0px 40px 0px;
+  	color: black;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	align-items: flex-start;
+  	padding-left: 70px;
+  	word-spacing: 5px;
+
+  }
+  .msstyle3 h1{
+  	font-size: 40px;
+  	font-weight: bold;
+  }
+ .msstyle4{
+ 
+  	width: 100%;
+  	height:420px;
+  	background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)),url('windows.jpg');
+  	background-repeat: no-repeat;
+  	background-size: 100%,100%;
+  	margin: 20px 0px 40px 0px;
+  	color:white;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	align-items: flex-start;
+  	padding-left: 70px;
+  	word-spacing: 5px;
+
+  }
+.msstyle4 h1{
+	font-size:40px;
+}
+.msstyle4 p{
+	font-size: 16px;
+}
+.win{
+	margin-top:150px;
+}
+.win{
+   position: relative;
+}
+.op{
+	position: absolute;
+	top: 40%;
+	left:66%;
+}
+.op h3{
+	color:black;
+	font-size: 35px;
+
+}
+.op p{
+	color:black;
+	font-size: 16px;
+}
+.lo img{
+	height:300px;
+}
+.lo h4{
+	color: black;
+
+}
+.lo p{
+	color: black;
+}
+.win{
+	margin-bottom: 150px;
+}
+.learn1{
+	background: #f2f2f2;
+	padding-top: 30px;
+	margin-bottom: 100px;
+}
+.po{
+     
+	color: white;
+    margin-bottom: 100px;
+}
+.lop{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+.lop p{
+	padding-left: 15px;
+}
+.learn2{
+	margin-top: 100px;
+
+}
+.learn2 h3{
+	color: green;
+}
+.msstyle5{
+ 
+  	width: 100%;
+  	height:500px;
+  	background-image:linear-gradient(to right,rgba(0,0,0,0.7),rgba(0,0,0,0)),url('series2.jpg');
+  	background-repeat: no-repeat;
+  	background-size: 100%,100%;
+  	margin: 20px 0px 40px 0px;
+  	color:white;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	align-items: flex-start;
+  	padding-left: 70px;
+  	word-spacing: 5px;
+
+}
+.msstyle5 h1{
+   font-size: 62px;
+}
+.msstyle6{
+ 
+  	width: 100%;
+  	height:500px;
+  	background-image:linear-gradient(to right,rgba(0,0,0,1),rgba(0,0,0,0.5)),url('su.jpg');
+  	background-repeat: no-repeat;
+  	background-size: 100%,100%;
+  	margin: 20px 0px 40px 0px;
+  	color:white;
+  	display: flex;
+  	flex-direction: column;
+  	justify-content: center;
+  	align-items: flex-start;
+  	padding-left: 130px;
+  	word-spacing: 5px;
+
+}
+.msstyle6 h1{
+   font-size: 68px;
+}
+.support img{
+	width: 200px;
+	height: auto;
+}
+.model1 input{
+	background:mistyrose;
+	border:none;
+	padding: 10px;
+	border-radius:10px;
+}
